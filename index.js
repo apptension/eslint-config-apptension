@@ -76,7 +76,7 @@ module.exports = {
 
         //stylistic
         'array-bracket-spacing': [2, 'never'],
-        'brace-style': [2, 'stroustrup', {'allowSingleLine': true}],
+        'brace-style': [2, '1tbs', {'allowSingleLine': true}],
         'camelcase': [2, {'properties': 'always'}],
         'comma-spacing': [2, {'before': false, 'after': true}],
         'comma-style': [2, 'last'],
@@ -94,7 +94,7 @@ module.exports = {
         'no-spaced-func': 1,
         'no-trailing-spaces': 1,
         'no-unneeded-ternary': 2,
-        'object-curly-spacing': [2, 'always'],
+        'object-curly-spacing': [2, 'never'],
         'padded-blocks': [1, 'never'],
         'quote-props': [1, 'as-needed'],
         quotes: [2, 'single', 'avoid-escape'],
