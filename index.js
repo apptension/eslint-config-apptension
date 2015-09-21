@@ -101,7 +101,7 @@ module.exports = {
         'semi-spacing': 1,
         'space-after-keywords': 2,
         'space-before-blocks': 2,
-        'space-before-function-paren': [2, {"anonymous": "always", "named": "never"}],
+        'space-before-function-paren': [1, {"anonymous": "always", "named": "never"}],
         'space-in-parens': [2, 'never'],
         'space-infix-ops': 2,
         'space-return-throw-case': 2,
