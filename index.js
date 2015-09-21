@@ -84,7 +84,7 @@ module.exports = {
         'eol-last': 1,
         'indent': [2, 2],
         'key-spacing': 2,
-        'linebreak-style': 1,
+        'linebreak-style': 0,
         'new-cap': 1,
         'new-parens': 2,
         'no-inline-comments': 2,
