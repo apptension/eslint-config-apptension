@@ -69,7 +69,7 @@ module.exports = {
         'yoda': 1,
         'no-delete-var': 2,
         'no-catch-shadow': 1,
-        'no-shadow': 1,
+        'no-shadow': 0,
         'no-undefined': 2,
         'no-unused-vars': 1,
         'no-use-before-define': [2, 'nofunc'],
