@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-apptension",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "ESLint configuration for Apptension's projects.",
   "main": "index.js",
   "scripts": {
