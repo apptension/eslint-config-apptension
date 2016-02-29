@@ -96,7 +96,7 @@ module.exports = {
         'no-unneeded-ternary': 2,
         'object-curly-spacing': [2, 'never'],
         'padded-blocks': [1, 'never'],
-        'quote-props': [1, 'as-needed'],
+        'quote-props': [1, 'as-needed', {'keywords': true, 'unnecessary': false }],
         quotes: [1, 'single', 'avoid-escape'],
         'semi-spacing': 1,
         'space-after-keywords': 1,
