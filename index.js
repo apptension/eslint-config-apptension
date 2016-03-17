@@ -99,12 +99,11 @@ module.exports = {
         'quote-props': [1, 'as-needed', {'keywords': true, 'unnecessary': false }],
         quotes: [1, 'single', 'avoid-escape'],
         'semi-spacing': 1,
-        'space-after-keywords': 1,
+        'keyword-spacing': 1,
         'space-before-blocks': 1,
         'space-before-function-paren': [1, {'anonymous': 'always', 'named': 'never'}],
         'space-in-parens': [1, 'never'],
         'space-infix-ops': 1,
-        'space-return-throw-case': 1,
         'arrow-spacing': [1, { 'before': true, 'after': true }]
     }
 };
