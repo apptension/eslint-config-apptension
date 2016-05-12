@@ -104,6 +104,7 @@ module.exports = {
         'space-before-function-paren': [1, {'anonymous': 'always', 'named': 'never'}],
         'space-in-parens': [1, 'never'],
         'space-infix-ops': 1,
-        'arrow-spacing': [1, { 'before': true, 'after': true }]
+        'arrow-spacing': [1, { 'before': true, 'after': true }],
+        'max-len': [2, { 'code': 120, 'tabWidth': 2}]
     }
 };
