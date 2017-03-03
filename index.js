@@ -94,7 +94,7 @@ module.exports = {
         'no-spaced-func': 1,
         'no-trailing-spaces': 1,
         'no-unneeded-ternary': 2,
-        'object-curly-spacing': [2, 'never'],
+        'object-curly-spacing': [2, 'always'],
         'padded-blocks': [1, 'never'],
         'quote-props': [1, 'as-needed', {'keywords': true, 'unnecessary': false }],
         quotes: [1, 'single', 'avoid-escape'],
