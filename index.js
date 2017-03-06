@@ -7,7 +7,7 @@ module.exports = {
     },
 
     rules: {
-        'comma-dangle': [2, 'always-multiline'],
+        'comma-dangle': [1, 'always-multiline'],
         'no-console': 1,
         'no-debugger': 1,
         'no-alert': 1,
