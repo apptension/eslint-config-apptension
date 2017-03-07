@@ -70,7 +70,7 @@ module.exports = {
         'no-delete-var': 2,
         'no-catch-shadow': 1,
         'no-shadow': 0,
-        'no-undefined': 2,
+        'no-undefined': 0,
         'no-unused-vars': 1,
         'no-use-before-define': [2, 'nofunc'],
 
