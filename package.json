@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-apptension",
+  "name": "@apptension/eslint-config",
   "version": "1.3.0",
   "description": "ESLint configuration for Apptension's projects.",
   "main": "index.js",
@@ -10,5 +10,13 @@
     "release-major": "git checkout master; git commit -a -m 'Build dist/'; npm version major && git push origin master --tags && npm publish"
   },
   "author": "Apptension",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apptension/eslint-config-apptension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apptension/eslint-config-apptension/issues"
+  },
+  "homepage": "https://github.com/apptension/eslint-config-apptension#readme"
 }
